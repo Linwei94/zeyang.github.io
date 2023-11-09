@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zeyang Dong <br>董泽阳"
-  avatar           : "images/profile.jpg"
+  avatar           : "images/profile.png"
   bio              : "New York University"
   location         : "Shanghai, China"
   employer         :
