@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zeyang Dong is a research intern at Taibao Technology AI Lab, supervised by Dr X. He received Bachelor of Science in Mathematics from The Pennsylvania State University State College and Master of Science in Management and Systems New York University in 2020 and 2022 respectively. 
+Zeyang Dong is a research intern at Taibao Technology AI Lab. He received Bachelor of Science in Mathematics from The Pennsylvania State University State College and Master of Science in Management and Systems New York University in 2020 and 2022 respectively. 
 
 
 <span class='anchor' id='projects'></span>
