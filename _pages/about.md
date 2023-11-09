@@ -20,20 +20,18 @@ redirect_from:
 Zeyang Dong is a research intern at the University of Sydney, supervised by Dr X. He received Bachelor of Science in Mathematics from The Pennsylvania State University State College and Master of Science in Management and Systems New York University in 2020 and 2022 respectively. 
 
 
-<!-- <span class='anchor' id='publications'></span>
-# 📝 Publications  -->
+<span class='anchor' id='projects'></span>
+# 📝 Projects
 
-<!-- - **Linwei Tao**, Minjing Dong, Chang Xu. “Dual Focal Loss for Calibration”, In Proceedings of the 40th International Conference on Machine Learning (ICML), 2023.
-[[Paper]](https://arxiv.org/pdf/2305.13665.pdf)
-[[Code]](https://github.com/Linwei94/DualFocalLoss)
+- *2022.09 - 2022.12*, Building New York University Applied Analytics Lab website and communication Plan
+  **Objective**: promote newly established Applied Analytics Lab and its best analytical models among businesses and potential student applicants; 
+  **Responsibilities**: site framework, coding, editing, and live deployment; 
+  **Critical learnings**: must learn new skills extremely fast and be able to apply them right away; rely on resources available but also ingenuity.   
 
-- **Linwei Tao**, Minjing Dong, Daochang Liu, Changming Sun, Chang Xu. “Calibrating a Deep Neural Network with Its Predecessors”, In Proceedings of the 32th International Joint Conference on Artificial Intelligence (IJCAI), 2023.
-[[Paper]](https://arxiv.org/pdf/2302.06245.pdf)
-[[Code]](https://github.com/Linwei94/PCS)
+- *2022.01 - 2022.08*, San Francisco Airport Data Analysis – Project Leader
+  **Objective**: complete user satisfaction and business strategy analysis based on existing data; develop a new business strategy aiming at increasing business revenue and profit; 
+  **Challenges**: 1) select, clean and format existing data; 2) identifying critical areas that mostly affected passenger experiences of the airport; 2) identifying major profit driven/loss factors; 4) quantifying all the new learnings & discoveries; 5) applying statistical modeling to share new learnings with business leaders.
 
-- **Linwei Tao**, Younan Zhu, Haolan Guo, Minjing Dong, Chang Xu. “A Benchmark Study on Calibration”, 2023, Preprint.
-[[Paper]](https://arxiv.org/pdf/2308.11838.pdf)
-[[Code]](https://github.com/Linwei94/CalibrationDataset) -->
 
 <span class='anchor' id='educations'></span>
 # 📖 Education
@@ -42,11 +40,6 @@ Zeyang Dong is a research intern at the University of Sydney, supervised by Dr X
 - *2022.08 - 2022.12*, Master of Science in Management and Systems, New York University (3.857/4.00)
 - *2016.08 - 2020.12*, Bachelor of Science in Mathematics, The Pennsylvania State University (3.02/4.00)
 
-<!-- <span class='anchor' id='teaching'></span>
-# 🧑‍🏫 Teaching
-
-- *2022 S1, 2023 S1*, Teaching Assistant of COMP5329 Deep Learning
-- *2022 S2, 2023 S2*, Teaching Assistant of HTIN5005 Applied Healthcare Data Science -->
 
 <span class='anchor' id='internship'></span>
 # 💼 Internship
@@ -58,7 +51,7 @@ Zeyang Dong is a research intern at the University of Sydney, supervised by Dr X
 - *2018.05 - 2018.08*, Quantitative Analyst Full-time Trainee, Yuekai Securities Ltd
 - *2017.05 - 2017.08*, Youth Health Specialist Full-time Internship, New World Teen Sports Club
 
-<span class='anchor' id='honors-awards'></span>
+<span class='anchor' id='leadership-services'></span>
 # 🎖 Leadership & Services
 
 - *2018.08 - 2020.05*, Vice President, Penn State Chinese Student Badminton Club
