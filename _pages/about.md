@@ -24,13 +24,13 @@ Zeyang Dong is a research intern at Taibao Technology AI Lab, supervised by Dr X
 # 📝 Projects
 
 - *2022.09 - 2022.12*, Building New York University Applied Analytics Lab website and communication Plan
-  **Objective**: promote newly established Applied Analytics Lab and its best analytical models among businesses and potential student applicants; 
-  **Responsibilities**: site framework, coding, editing, and live deployment; 
-  **Critical learnings**: must learn new skills extremely fast and be able to apply them right away; rely on resources available but also ingenuity.   
+    - **Objective**: promote newly established Applied Analytics Lab and its best analytical models among businesses and potential student applicants; 
+    - **Responsibilities**: site framework, coding, editing, and live deployment; 
+    - **Critical learnings**: must learn new skills extremely fast and be able to apply them right away; rely on resources available but also ingenuity.   
 
 - *2022.01 - 2022.08*, San Francisco Airport Data Analysis – Project Leader
-  **Objective**: complete user satisfaction and business strategy analysis based on existing data; develop a new business strategy aiming at increasing business revenue and profit; 
-  **Challenges**: 1) select, clean and format existing data; 2) identifying critical areas that mostly affected passenger experiences of the airport; 2) identifying major profit driven/loss factors; 4) quantifying all the new learnings & discoveries; 5) applying statistical modeling to share new learnings with business leaders.
+    - **Objective**: complete user satisfaction and business strategy analysis based on existing data; develop a new business strategy aiming at increasing business revenue and profit; 
+    - **Challenges**: 1) select, clean and format existing data; 2) identifying critical areas that mostly affected passenger experiences of the airport; 2) identifying major profit driven/loss factors; 4) quantifying all the new learnings & discoveries; 5) applying statistical modeling to share new learnings with business leaders.
 
 
 <span class='anchor' id='educations'></span>
